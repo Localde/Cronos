@@ -1,0 +1,7 @@
+Este programa esta sendo desenvolvido para resolver o problema com relação a organização.
+
+A idéia é a seguinte:
+
+O programa irá gerar um arquivo de texto contendo um cronograma, nele você irá especificar o tipo de sono, o horário de acordar eo horario de dormir, os horarios para se alimentar, e fazer treinamento fisico e estudar.
+
+Criar lista de comandos que ativa determinadas funções.

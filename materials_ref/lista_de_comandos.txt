@@ -1,0 +1,9 @@
+newc a 'horario inicial' - Cria um novo cronograma com sono Monofásico.
+
+newc b 'horario inicial' - Cria um novo cronograma com sono Bifásico.
+
+newc c 'horario inicial' - Cria um novo cronograma com sono Everyman.
+
+newc d 'horario inicial' - Cria um novo cronograma com sono Dymaxion.
+
+newc e 'horario inicial' - Cria um cronograma com sono Uberman.
