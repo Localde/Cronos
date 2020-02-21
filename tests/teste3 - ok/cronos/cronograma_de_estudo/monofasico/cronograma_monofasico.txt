@@ -1,0 +1,29 @@
+Linguagem do Dia: Python
+------------------------------
+Dormir: 01:30
+------------------------------
+Acordar: 07:30
+------------------------------
+Tomar Banho
+Ir ao mercado
+Café da manhã
+Fazer Duolingo
+Ler 10 paginas
+------------------------------
+Estudar: Fazer Engenharia Reversa
+------------------------------
+Almoçar: 12:30
+------------------------------
+Limpar e Organizar: Cozinha
+------------------------------
+Dormir: 13:30
+------------------------------
+Acordar: 14:00
+------------------------------
+Estudar: Leitura Intensiva
+------------------------------
+Limpar e Organizar: Banheiro do corredor
+------------------------------
+Ir para o Trabalho: 13:30
+------------------------------
+Voltar do Trabalho: 00:40
