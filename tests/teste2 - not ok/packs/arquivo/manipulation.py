@@ -1,4 +1,5 @@
-from random import choice
+from aleatorio import *
+
 
 def verificaSeExiste(arq):
      try:
@@ -27,16 +28,13 @@ def modeloA(arq):
           print('Houve um ERRO na hora de escrever os dados!')
      else:
           try:
-               metodos_de_estudo = ['Assistir Video Aulas', 'Leitura Intensiva', 'Resolver Atividades', 'Fazer Engenharia Reversa']
-               limpar = ['Cozinha', 'Sala', 'Quarto onde Dorme', 'Quarto onde não dorme', 'Banheiro do corredor', 'Banheiro do quarto onde dorme', 'Area do tanquinho']                              
-               materias = ['Python', 'PHP', 'Javascript']
-               aleatorio_a = choice(metodos_de_estudo)
-               aleatorio_b = choice(limpar)
-               aleatorio_c = choice(materias)
-               aleatorio_d = choice(metodos_de_estudo)
-               aleatorio_e = choice(limpar)
-
-               a.write(f'Linguagem do Dia: {aleatorio_c}')
+               aa = Null
+               bb = Null
+               cc = Null
+               dd = Null
+               ee = Null
+               
+               a.write(f'Linguagem do Dia: {aleatorioC(aa)}')
                a.write('\n')
                a.write('-' * 30)
                a.write('\n')
@@ -60,7 +58,7 @@ def modeloA(arq):
                a.write('\n')
                a.write('-' * 30)
                a.write('\n')
-               a.write(f'Estudar: {aleatorio_a}')
+               a.write(f'Estudar: {aleatorioA(a=bb)}')
                a.write('\n')
                a.write('-' * 30)
                a.write('\n')
@@ -68,7 +66,7 @@ def modeloA(arq):
                a.write('\n')
                a.write('-' * 30)
                a.write('\n')
-               a.write(f'Limpar e Organizar: {aleatorio_b}')
+               a.write(f'Limpar e Organizar: {aleatorioB(a=cc)}')
                a.write('\n')
                a.write('-' * 30)
                a.write('\n')
@@ -80,15 +78,11 @@ def modeloA(arq):
                a.write('\n')
                a.write('-' * 30)
                a.write('\n')
-               while aleatorio_d == aleatorio_a:
-                    aleatorio_d = choice(metodos_de_estudo)
-               a.write(f'Estudar: {aleatorio_d}')
+               a.write(f'Estudar: {aleatorioA(b=dd)}')
                a.write('\n')
                a.write('-' * 30)
                a.write('\n')
-               while aleatorio_e == aleatorio_b:
-                    aleatorio_e = choice(limpar)
-               a.write(f'Limpar e Organizar: {aleatorio_e}')
+               a.write(f'Limpar e Organizar: {aleatorioB(b=ee)}')
                a.write('\n')             
                a.write('-' * 30)
                a.write('\n')

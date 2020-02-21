@@ -1,3 +1,0 @@
-#1 - Criar Função que verifica se o arquivo existe. ok
-#2 - Criar Função que cria arquivo.
-#3 - Criar Função que atualiza arquivo.

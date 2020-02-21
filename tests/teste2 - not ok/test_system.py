@@ -1,11 +1,11 @@
 import sys
 from packs.arquivo import manipulation
 
-arquivo_a = 'cronos/cronograma_a.txt'
-arquivo_b = 'cronos/cronograma_b.txt'
-arquivo_c = 'cronos/cronograma_c.txt'
-arquivo_d = 'cronos/cronograma_d.txt'
-arquivo_e = 'cronos/cronograma_e.txt'
+arquivo_a = 'cronograma/cronograma_a.txt'
+arquivo_b = 'cronograma/cronograma_b.txt'
+arquivo_c = 'cronograma/cronograma_c.txt'
+arquivo_d = 'cronograma/cronograma_d.txt'
+arquivo_e = 'cronograma/cronograma_e.txt'
 
 while True:
         comando = str(input('>> ')).lower().strip()
