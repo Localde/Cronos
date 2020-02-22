@@ -1,0 +1,29 @@
+Linguagem do Dia: Javascript
+------------------------------
+Dormir: 01:30
+------------------------------
+Acordar: 07:30
+------------------------------
+Tomar Banho
+Ir ao mercado
+Café da manhã
+Fazer Duolingo
+Ler 10 paginas
+------------------------------
+Estudar: Leitura Intensiva
+------------------------------
+Almoçar: 12:30
+------------------------------
+Limpar e Organizar: Banheiro do corredor
+------------------------------
+Dormir: 13:30
+------------------------------
+Acordar: 14:00
+------------------------------
+Estudar: Assistir Video Aulas
+------------------------------
+Limpar e Organizar: Sala
+------------------------------
+Ir para o Trabalho: 13:30
+------------------------------
+Voltar do Trabalho: 00:40
