@@ -11,5 +11,5 @@ Linguagem do Dia: Python
 4# Resolver uma atividade
 
 Tarefas Extras:
-Resolver Atividades
-Fazer Trabalho de Pesquisa
+Assistir Video Aulas
+Fazer Engenharia Reversa

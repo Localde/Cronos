@@ -86,7 +86,7 @@ while True:
                                         elif codigo[3] == 'bi':
                                                 if not manipulation.verificaSeExiste(arquivo_bifasico_estudo):
                                                         manipulation.criarDoc(arquivo_bifasico_estudo)
-                                                        #manipulation.modeloBifasico(arquivo_bifasico_estudo)
+                                                        estudo.estudoBifasico(arquivo_bifasico_estudo)
                                         elif codigo[3] == 'ev':
                                                 if not manipulation.verificaSeExiste(arquivo_everyman_estudo):
                                                         manipulation.criarDoc(arquivo_everyman_estudo)
