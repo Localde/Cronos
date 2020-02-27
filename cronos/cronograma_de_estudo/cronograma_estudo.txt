@@ -1,6 +1,6 @@
 Cronograma de Estudo
 
-Linguagem do Dia: PHP
+Linguagem do Dia: Python
 
 1# Fazer Duolingo
 2# Ler 10 paginas
@@ -8,5 +8,4 @@ Linguagem do Dia: PHP
 4# Resolver uma atividade
 
 Tarefas Extras:
-Leitura Intensiva
-Fazer Trabalho de Pesquisa
+Fazer Engenharia Reversa (Recriar Softwares) - Estatisticas

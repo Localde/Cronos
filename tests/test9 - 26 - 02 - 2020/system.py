@@ -1,6 +1,6 @@
 import sys
 from packs.arquivo import manipulation
-from packs.cronosestudo import estudo
+from packs.cronosestudo import estudo, ed_fisica
 
 arquivo_estudo = 'cronos/cronograma_de_estudo/cronograma_estudo.txt'
 arquivo_ed_fisica = 'cronos/cronograma_de_ed_fisica/cronograma_ed_fisica.txt'
@@ -18,4 +18,4 @@ while True:
                         elif codigo[2] == 'ed' and len(codigo[2]) == 2: #Cronograma de Educação Fisica
                                 if not manipulation.verificaSeExiste(arquivo_ed_fisica):
                                         manipulation.criarDoc(arquivo_ed_fisica)
-                                        estudo.edFisica(arquivo_ed_fisica)
+                                        ed_fisica.edFisica(arquivo_ed_fisica)

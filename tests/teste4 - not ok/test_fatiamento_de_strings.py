@@ -1,5 +1,0 @@
-codigo = str('cronos new al mo').split()
-print(codigo[0])
-print(codigo[1])
-print(codigo[2])
-print(codigo[3])
